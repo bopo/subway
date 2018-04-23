@@ -1,0 +1,65 @@
+# django
+django
+django-environ
+django-extensions
+django-import-export
+django-reversion
+django-imagekit
+django-filters
+django-model-utils
+django-jsonfield
+django-lifecycle
+django-split-settings
+django-mptt
+django-suit
+
+# search
+git+https://github.com/notanumber/xapian-haystack.git
+django-haystack
+whoosh
+solr
+
+# 扩展功能
+django-storages
+django-thumbor
+
+# 队列消息
+django-celery-results
+django-celery-beat
+flower
+redis
+
+# drf
+djangorestframework
+djangorestframework-msgpack
+django-rest-swagger
+
+# lib
+short_url
+fabric3
+hashids
+pillow
+jpush
+click
+plan
+
+# wechat
+pycrypto
+requests
+wechatpy
+
+# debug
+django-debug-toolbar
+django-silk
+raven
+
+# [wsgi]
+uwsgi
+gevent
+tornado
+meinheld
+
+# 生成运行
+gunicorn
+whitenoise
+psycopg2-binary
